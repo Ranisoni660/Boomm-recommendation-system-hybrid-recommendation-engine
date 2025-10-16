@@ -13,7 +13,6 @@ dependencies = [
     "scipy>=1.16.2",
     "seaborn>=0.13.2",
     "streamlit>=1.50.0",
-    "scikit-surprise>=1.1.4",
 ]
 
 [[tool.uv.index]]
